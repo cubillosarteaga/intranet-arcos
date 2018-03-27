@@ -88,6 +88,3 @@ De la vista anterior se modifca por:
 
 Ya finalizando con la parte de iteración, se les mostró la modificación del prototipo a los usuarios y efectivamente tuvo una mejor recepción alegando que de esta manera la información estaba más completa y ordenada.
 
-## Desarrollado para
-[Instituto ARCOS](https://marvelapp.com/83i2aib/screen/39627152)
-
