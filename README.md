@@ -11,13 +11,11 @@ Investigación acerca del proceso de carga académica, de una institución en pa
 
 >Basado en una problemática en particular es que se decidió iniciar una investigación acerca del proceso de carga académica o comúnmente conocido como toma de ramos, de una institución en particular ARCOS.
 
-![ima1](https://user-images.githubusercontent.com/32303709/37869918-445b298c-2fa0-11e8-889a-ea7df466b762.png)
-
-**DESCUBRIMIENTO E INVESTIGACIÓN**
+## DESCUBRIMIENTO E INVESTIGACIÓN
 
 La problemática en la que se basa este proyecto, radica en la poca claridad de la información de las asignaturas o electivos que deben escoger los alumnos al momento de crear su horario de clases. Así como también el estilo gráfico en que se les presenta dicha información y como está distribuida, visualmente no es agradable. Se comenzó por crear una guía de entrevista y una encuesta para poder rescatar datos cualitativos y cuantitativos a fin de conocer el nivel de satisfacción de los alumnos sobre su intranet.
 
-**SÍNTESIS**
+## SÍNTESIS
 
 A partir de lo anterior se revisó la información recibida por las encuestas y la entrevista y se procede a sacar conclusiones:
 
@@ -40,11 +38,11 @@ Posteriormente después de seguir investigando se da paso a realizar un BENCHMAR
 
 Se puede sacar como conclusión que todas las instituciones que se compararon no poseen un diseño atractivo y que se asemeje a su web institucional. Todas tienen la misma información en cuanto a las asignaturas, solo en una se mencionaba el estado académico del alumno, pero en casi todas los pasos para tomar los ramos eran largos, tediosos, etc.
 
-**Se definió al usuario**
+## Se definió al usuario
 
 ![natalia](https://user-images.githubusercontent.com/32303709/37871290-efe421e4-2fc0-11e8-91ad-dd0cec6a1089.png)
 
-**IDEACIÓN**
+## IDEACIÓN
 
 Con el MVP definido, comenzamos con la etapa de prototipado de nuestro producto
 
@@ -63,17 +61,17 @@ Luego se paso a los wireframes:
 
 ![wire](https://user-images.githubusercontent.com/32303709/37871276-8fa40b0a-2fc0-11e8-9b14-ccf4679865a2.jpg)
 
-**PROTOTIPADO**
+## PROTOTIPADO
 
 ![vistas](https://user-images.githubusercontent.com/32303709/37871275-8f67555c-2fc0-11e8-9855-b139b87a4ead.jpg)
 
 Ya con esto se continúa con el testing.
 
-**TESTING**
+## TESTING
 
 >El objetivo principal era comprobar que la información que se le entregaba al usuario era lo suficientemente clara para que pudiera realizar una toma de ramos. Si la “nueva” interfaz era agradable visualmente, y si se entendía el proceso de carga académica. Para ello se les encomendó la siguiente tarea: En el contexto de ser alumnos del Instituto Arcos, de la carrera de fotografía profesional, que realizaran el proceso de toma de ramos para el primer semestre del año 2018.
 
-**EL FEEDBACK QUE SE RECIBIÓ DE LOS USUARIOS:**
+## EL FEEDBACK QUE SE RECIBIÓ DE LOS USUARIOS
 
 - Les gustaría que en la información de las asignaturas además de lo que ya está, se agregase como dato el día en el cual se imparte el ramo.
 - Opción de ver las secciones.
