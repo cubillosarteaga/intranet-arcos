@@ -5,7 +5,7 @@ Investigación acerca del proceso de carga académica, de una institución en pa
 ![ima1](https://user-images.githubusercontent.com/32303709/37869918-445b298c-2fa0-11e8-889a-ea7df466b762.png)
 
 ## Desarrollado para
-[Instituto ARCOS](http://laboratoria.la)
+[Laboratoria](http://laboratoria.la)
 
 RE-DISEÑO DE LA INTERFAZ DE INTRANET
 
