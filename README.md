@@ -7,7 +7,7 @@ Investigación acerca del proceso de carga académica o comúnmente conocido com
 ## Desarrollado para
 [Instituto ARCOS](https://marvelapp.com/83i2aib/screen/39627152)
 
-##RE-DISEÑO DE LA INTERFAZ DE INTRANET
+## RE-DISEÑO DE LA INTERFAZ DE INTRANET
 
 >Basado en una problemática en particular es que se decidió iniciar una investigación acerca del proceso de carga académica o comúnmente conocido como toma de ramos, de una institución en particular ARCOS.
 
